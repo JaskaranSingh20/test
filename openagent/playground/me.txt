@@ -1,0 +1,5 @@
+{{#user}
+Name: Jaskaran Singh
+Skills: HTML, CSS, JS, React.js, Redux , Firebase
+Email: jasramgharia20@gmail.com
+{{/user}}
